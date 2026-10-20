@@ -13,12 +13,14 @@ My Chemical Romance.
 
 ## Notas
 
-- Las imágenes de `img/` (hero, galería, portada del blog, avatar) son
-  generadas, no fotos reales de la banda — evita cualquier tema de
-  derechos de autor sobre fotografía oficial/prensa.
-- El avatar del "autor" (`img/avatar.jpg`) es un placeholder — reemplázalo
-  por tu propia foto antes de entregar, la consigna pide la foto real del
-  alumno.
+- Las fotos de la banda (hero, portada del blog, galería) son reales,
+  tomadas de Wikimedia Commons con licencia libre (CC0 o CC BY/CC BY-SA)
+  — no son material de prensa oficial con derechos reservados. Los
+  créditos a cada fotógrafo están en el pie de página de `index.html`,
+  `blog.html` y `galeria.html` (obligatorio por el tipo de licencia).
+- El avatar del "autor" (`img/avatar.jpg`) sigue siendo un placeholder —
+  reemplázalo por tu propia foto antes de entregar, la consigna pide la
+  foto real del alumno.
 - No se incluye audio con derechos de autor; la etiqueta `<audio>` queda
   comentada en `index.html` lista para usar si se agrega una fuente propia.
 
